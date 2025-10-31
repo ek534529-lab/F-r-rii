@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Férérii",
+  "description": "Férérii is an innovative application that combines the sale of second-hand items, local job offers, and community services. Whether you want to resell a phone, find a local job, or offer help at home, Férérii easily connects you to your community.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
